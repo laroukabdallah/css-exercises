@@ -1,19 +1,18 @@
 .odd {
-    background-color: #F7A3A4;
+    background-color: rgb(255, 167, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd#ThreeNum {
+.fontSize {
     font-size: 24px;
 }
 
-#TwoNum {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
 
-#FourNum {
+#four {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
